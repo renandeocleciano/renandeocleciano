@@ -14,5 +14,5 @@ jobs:
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
-          INPUT_GH_TOKEN: ${{ github.token }}
-          INPUT_WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ github.token }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
