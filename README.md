@@ -31,5 +31,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renandeocleciano&" alt="renandeocleciano" /></p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img
+  src="https://github.com/renandeocleciano/renandeocleciano/blob/main/images/stat.svg"
+  alt="WakaTime Activity"
+/>
