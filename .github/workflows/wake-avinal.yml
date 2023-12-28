@@ -13,6 +13,11 @@ jobs:
     name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:
+      - shell: bash
+        env:
+          SUPER_SECRET: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          echo "$SUPER_SECRET" # this line, log your SUPER_SECRET
       - uses: avinal/Profile-Readme-WakaTime@master
         with:
           # WakaTime API key stored in secrets, do not directly paste it here
