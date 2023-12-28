@@ -13,17 +13,10 @@ jobs:
     name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:
-      - shell: bash
-        env:
-          SUPER_SECRET: ${{ secrets.WAKATIME_API_KEY }}
-        run: |
-          echo "$SUPER_SECRET" # this line, log your SUPER_SECRET
       - uses: avinal/Profile-Readme-WakaTime@master
         with:
-          # WakaTime API key stored in secrets, do not directly paste it here
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Automatic github token
           GITHUB_TOKEN: ${{ github.token }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BRANCH: "main"
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
           STATS_RANGE: "last_7_days"
