@@ -30,8 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renandeocleciano&show_icons=true&locale=en" alt="renandeocleciano" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renandeocleciano&" alt="renandeocleciano" /></p>
-
-<img
-  src="https://github.com/renandeocleciano/renandeocleciano/blob/main/images/stat.svg"
-  alt="WakaTime Activity"
-/>
