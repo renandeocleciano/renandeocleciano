@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [BestSpaces](https://www.bestspaces.com.br)
 
-- 🌱 I’m currently learning **Flutter and Kubernets**
+- 🌱 I’m currently learning **Flutter, Kubernets and Ruby**
 
 - 📝 I regularly write articles on [https://renandeocleciano.medium.com/](https://renandeocleciano.medium.com/)
 
