@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, Kubernets and Ruby**
 
-- 📝 I regularly write articles on [https://renandeocleciano.medium.com/](https://renandeocleciano.medium.com/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/dev-renan-tavares/](https://www.linkedin.com/in/dev-renan-tavares/)
 
 - 💬 Ask me about **trick or treat :)**
 
